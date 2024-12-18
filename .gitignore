@@ -1,3 +1,7 @@
+venv/
+node_modules/
+.vscode/
+.idea/
 venv/lib64
 venv/pyvenv.cfg
 venv/bin/activate
